@@ -13,7 +13,7 @@
 ## Architecture
 *Generator* | *Mapping Network* | *Style Encoder & Discriminator* |
 :---: | :---: | :---: |
-<img src = './assets/g_archi.png' width = '400px' height = '300px'> | <img src = './assets/mapping_achi.png' width = '400px' height = '200px'> | <img src = './assets/sty_and_dis_archi.png' width = '400px' height = '300px'> |
+<img src = './assets/g_archi.png' width = '408px' height = '380px'> | <img src = './assets/mapping_achi.png' width = '406px' height = '227px'> | <img src = './assets/sty_and_dis_archi.png' width = '412px' height = '338px'> |
 
 
 ## Usage
