@@ -1,4 +1,4 @@
-## StarGAN v2 &mdash; Un-official TensorFlow Implementation [[Paper]](https://arxiv.org/abs/1912.01865) [[Official Code]](https://github.com/clovaai/stargan-v2)
+## StarGAN v2 &mdash; Un-official TensorFlow Implementation [[Paper]](https://arxiv.org/abs/1912.01865) [[Official code]](https://github.com/clovaai/stargan-v2)
 ### : Diverse Image Synthesis for Multiple Domains
 
 <div align="center">
