@@ -1,8 +1,22 @@
 ## StarGAN v2 &mdash; Un-official TensorFlow Implementation
 ### : Diverse Image Synthesis for Multiple Domains
 
+<div align="center">
+  <img src="./assets/teaser.png">
+</div>
 
 ### [Paper](https://arxiv.org/abs/1912.01865) | [Official Pytorch code](https://github.com/clovaai/stargan-v2)
+
+## Overview
+<div align="center">
+  <img src="./assets/overview.png">
+</div>
+
+## Architecture
+*Generator* | *Mapping Network* | *Style Encoder & Discriminator* |
+:---: | :---: | :---: |
+<img src = './assets/g_archi.png' width = '400px' height = '300px'> | <img src = './assets/mapping_achi.png' width = '400px' height = '200px'> | <img src = './assets/sty_and_dis_archi.png' width = '400px' height = '300px'> |
+
 
 ## Usage
 ```
