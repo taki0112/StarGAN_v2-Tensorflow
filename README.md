@@ -50,10 +50,14 @@ python main.py --dataset celebA-HQ_gender --phase test
 
 ### Refer test
 ```
-python main.py --dataset celebA-HQ_gender --phase refer_test
+python main.py --dataset celebA-HQ_gender --phase refer_test --refer_img_path refer_img.jpg
 ```
 
 ## Our results
+<div align="center">
+  <img src="./assets/loss_graph.png">
+</div>
+
 <div align="center">
   <img src="./assets/result1.png">
 </div>
