@@ -53,8 +53,14 @@ python main.py --dataset celebA-HQ_gender --phase test
 python main.py --dataset celebA-HQ_gender --phase refer_test
 ```
 
-## Results
+## Our results
+<div align="center">
+  <img src="./assets/result1.png">
+</div>
 
+<div align="center">
+  <img src="./assets/result2.png">
+</div>
 
 ## Author
 [Junho Kim](http://bit.ly/jhkim_ai)
